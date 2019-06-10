@@ -23,5 +23,5 @@ Berarti key laravel anda salah untuk memperbaikinya tinggal di
 "php artisan key:generate"
 - Silahkan jalankan projectnya <br>
 "php artisan serve"
-- Paggil urlnya localhost:8000/admin
+- Panggil urlnya localhost:8000/admin
 - Username : admin@gmail.com , password : administrator
