@@ -1,5 +1,5 @@
 # hrm-backpack
-simple hrm with laravel bakcpack
+sistem informasi pegawai dengan laravel bakcpack
 
 <p align="center"><img height="400px" src="https://github.com/perdianto27/hrm-backpack/blob/master/sc1.png"></p>
 
