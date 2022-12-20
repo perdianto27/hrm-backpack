@@ -13,7 +13,7 @@ sistem informasi pegawai dengan laravel bakcpack
 # Cara Menjalankan
 - Clone project atau download
 - Jalankan perintah : <br>
-“Composer dumpautoload”
+“Composer dump-autoload”
 “Composer update –no-scripts” 
 “Composer install”
 - Import dan Setting database
